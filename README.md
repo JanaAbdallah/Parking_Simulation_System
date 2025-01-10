@@ -15,6 +15,7 @@ The input file should contain details about the cars in a structured format. Eac
 
 
 ## How to Run
+
 Prerequisites
 Java Development Kit (JDK) installed on your system.
 Basic understanding of file handling in Java.
@@ -28,11 +29,11 @@ cd Parking_Simulation_System
 
 Ensure the input file cars.txt is in the same directory as the compiled Java files.
 
-Compile the Java program:
+## Compile the Java program:
 
 javac ParkingSystemSimulation.java
 
-Run the program:
+## Run the program:
 
 java ParkingSystemSimulation
 
