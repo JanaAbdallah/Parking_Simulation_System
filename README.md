@@ -22,10 +22,10 @@ Basic understanding of file handling in Java.
 Steps to Execute
 Clone the repository:
 
-git clone https://github.com/YourUsername/ParkingSystemSimulation.git
-cd ParkingSystemSimulation
+git clone https://github.com/JanaAbdallah/Parking_Simulation_System.git
+cd Parking_Simulation_System
 
-Ensure the input file car.txt is in the same directory as the compiled Java files.
+Ensure the input file cars.txt is in the same directory as the compiled Java files.
 
 Compile the Java program:
 
@@ -38,11 +38,11 @@ java ParkingSystemSimulation
 The program will read data from cars.txt, simulate the parking process, and display the results in the console.
 
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-About
+## About
 Developed and maintained by JanaAbdallah. This simulation project demonstrates Java file handling and parking system algorithms.
