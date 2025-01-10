@@ -23,6 +23,7 @@ Steps to Execute
 Clone the repository:
 
 git clone https://github.com/JanaAbdallah/Parking_Simulation_System.git
+
 cd Parking_Simulation_System
 
 Ensure the input file cars.txt is in the same directory as the compiled Java files.
